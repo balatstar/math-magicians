@@ -147,22 +147,6 @@ Warm kudos to Microverse for guidance and structure during my learning journey.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!--## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
--->
-
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
