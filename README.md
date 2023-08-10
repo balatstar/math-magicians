@@ -12,7 +12,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -49,10 +48,6 @@
 - Makes simple math calculations
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Live demo to follow
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,11 +114,8 @@ Deployment instructions to follow
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-New features to be determined.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- Interactive calculator
+- Math quote generator
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
