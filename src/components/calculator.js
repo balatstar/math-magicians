@@ -17,7 +17,7 @@ function Calculator() {
 
   return (
     <div className="calculator">
-      <Display value={calculatorState.next || calculatorState.total || '0'} />
+      <Display props={calculatorState.next || calculatorState.total || '0'} />
       <button type="button" className="key function" onClick={() => handleButtonClick('AC')}>AC</button>
       <button type="button" className="key function" onClick={() => handleButtonClick('+/-')}>+/-</button>
       <button type="button" className="key function" onClick={() => handleButtonClick('%')}>%</button>

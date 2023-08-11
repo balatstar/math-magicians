@@ -1,9 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-function Display({ value }) {
+function Display({ props }) {
   return (
-    <div className="display">{value}</div>
+    <div className="display">{props}</div>
   );
 }
 
