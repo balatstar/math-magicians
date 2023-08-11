@@ -73,7 +73,7 @@ Clone this repository to your local folder: https://github.com/balatstar/math-ma
 
 Install this project with:
 
-git clone https://github.com/balatstar/leaderboard.git
+git clone https://github.com/balatstar/math-magicians.git
 Open directory with your preferred code editor
 Run: npm start
 
@@ -91,7 +91,7 @@ npm start
 
 To run tests, run the following command:
 
-Tests to follow
+npm test
 
 ### Deployment
 
@@ -114,7 +114,6 @@ Deployment instructions to follow
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Interactive calculator
 - Math quote generator
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
