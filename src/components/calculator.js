@@ -1,10 +1,11 @@
 import React from 'react';
-import './calculator.css';
+import './Calculator.css';
+import Display from './Display';
 
 function Calculator() {
   return (
     <div className="calculator">
-      <div className="display">0</div>
+      <Display />
       <button type="button" className="key function">AC</button>
       <button type="button" className="key function">+/-</button>
       <button type="button" className="key function">%</button>
