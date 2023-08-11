@@ -1,0 +1,40 @@
+.calculator {
+  width: 1000px;
+  max-width: 100%;
+  margin: 0 auto;
+  border: 1px solid #bababa;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 0;
+}
+
+.display {
+  grid-column: span 4;
+  text-align: right;
+  background-color: #858693;
+  padding: 10px;
+  font-size: 24px;
+  color:#fff;
+  line-height: 2.5;
+}
+
+.key {
+  background-color: #e0e0e0;
+  font-size: 20px;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  line-height: 2.5;
+}
+
+.operator {
+  background-color: #f39148;
+}
+
+.zero {
+  grid-column: span 2;
+}
+
+/* Add more styles for other buttons as needed */
