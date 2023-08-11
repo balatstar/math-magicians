@@ -8,7 +8,7 @@ function Display({ props }) {
 }
 
 Display.propTypes = {
-  value: PropTypes.string.isRequired,
+  props: PropTypes.string.isRequired,
 };
 
 export default Display;
