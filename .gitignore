@@ -19,6 +19,7 @@
 .env.production.local
 App.test.bak.js
 setupTests.bak.js
+calculator_old.js
 
 npm-debug.log*
 yarn-debug.log*
