@@ -75,7 +75,7 @@ Install this project with:
 
 git clone https://github.com/balatstar/math-magicians.git
 Open directory with your preferred code editor
-Run: npm start
+Run: npm install
 
 ### Usage
 
@@ -114,7 +114,7 @@ Deployment instructions to follow
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Math quote generator
+- Better styling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -10,6 +10,7 @@ header {
 
 .navbar a {
   padding: 10px 20px;
+  color: #000;
 }
 
 .navbar ul li {
@@ -18,10 +19,6 @@ header {
 
 .navbar ul li:last-of-type {
   border-right: none;
-}
-
-.navbar a {
-  color: #000;
 }
 
 .navbar a:hover,
