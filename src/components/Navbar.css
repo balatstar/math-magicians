@@ -1,0 +1,30 @@
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+}
+
+.navbar a {
+  padding: 10px 20px;
+}
+
+.navbar ul li {
+  border-right: 1px solid #000;
+}
+
+.navbar ul li:last-of-type {
+  border-right: none;
+}
+
+.navbar a {
+  color: #000;
+}
+
+.navbar a:hover,
+.navbar .active {
+  color: sienna;
+}
