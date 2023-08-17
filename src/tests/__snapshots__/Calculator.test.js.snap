@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator renders Calculator component 1`] = `
+<div>
+  <h2>
+    Let's do some math!
+  </h2>
+  <div
+    class="calculator"
+  >
+    <div
+      class="display"
+    >
+      0
+    </div>
+    <button
+      class="key function"
+      type="button"
+    >
+      AC
+    </button>
+    <button
+      class="key function"
+      type="button"
+    >
+      +/-
+    </button>
+    <button
+      class="key function"
+      type="button"
+    >
+      %
+    </button>
+    <button
+      class="key operator"
+      type="button"
+    >
+      ÷
+    </button>
+    <button
+      class="key digit"
+      type="button"
+    >
+      7
+    </button>
+    <button
+      class="key digit"
+      type="button"
+    >
+      8
+    </button>
+    <button
+      class="key digit"
+      type="button"
+    >
+      9
+    </button>
+    <button
+      class="key operator"
+      type="button"
+    >
+      x
+    </button>
+    <button
+      class="key digit"
+      type="button"
+    >
+      4
+    </button>
+    <button
+      class="key digit"
+      type="button"
+    >
+      5
+    </button>
+    <button
+      class="key digit"
+      type="button"
+    >
+      6
+    </button>
+    <button
+      class="key operator"
+      type="button"
+    >
+      -
+    </button>
+    <button
+      class="key digit"
+      type="button"
+    >
+      1
+    </button>
+    <button
+      class="key digit"
+      type="button"
+    >
+      2
+    </button>
+    <button
+      class="key digit"
+      type="button"
+    >
+      3
+    </button>
+    <button
+      class="key operator"
+      type="button"
+    >
+      +
+    </button>
+    <button
+      class="key digit zero"
+      type="button"
+    >
+      0
+    </button>
+    <button
+      class="key digit"
+      type="button"
+    >
+      .
+    </button>
+    <button
+      class="key operator"
+      type="button"
+    >
+      =
+    </button>
+  </div>
+</div>
+`;
+
+exports[`QuoteDisplay renders QuoteDisplay component 1`] = `
+<div>
+  <div>
+    Loading...
+  </div>
+</div>
+`;
