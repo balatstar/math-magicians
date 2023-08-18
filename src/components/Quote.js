@@ -55,6 +55,7 @@ function QuoteDisplay({ category }) {
 
   return (
     <div className="quote">
+      <h2>Quote of the Day</h2>
       <p>{quoteData.quote}</p>
       <p>
         -

@@ -1,0 +1,8 @@
+.wrapper {
+  margin: 10px auto;
+  padding: 20px;
+  width: 1000px;
+  max-width: 100%;
+  background-color: rgba(255, 255, 255, 0.75);
+  min-height: 95vh;
+}
