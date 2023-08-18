@@ -12,6 +12,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -46,6 +47,13 @@
 ### Key Features <a name="key-features"></a>
 
 - Makes simple math calculations
+- Displays a quote of the day
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- https://math-magicians-7l5g.onrender.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +103,7 @@ npm test
 
 You can deploy this project using:
 
-Deployment instructions to follow
+npm run build
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
